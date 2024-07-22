@@ -139,6 +139,7 @@ outputs/
 
 # datasets
 FashionMNIST/
+MNIST/project_mnist/data/
 
 # vs code
 .vscode/settings.json
